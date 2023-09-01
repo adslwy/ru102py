@@ -32,9 +32,9 @@ mccabe==0.6.1
     # via pylint
 more-itertools==8.7.0
     # via pytest
-mypy-extensions==0.4.3
+mypy-extensions==1.0.0
     # via mypy
-mypy==0.761
+mypy==1.5.1
     # via -r requirements-dev.in
 packaging==20.9
     # via
@@ -54,7 +54,7 @@ pyparsing==2.4.7
     # via packaging
 pytest-dotenv==0.5.2
     # via -r requirements-dev.in
-pytest==5.4.1
+pytest==7.4.0
     # via
     #   -r requirements-dev.in
     #   pytest-dotenv
@@ -79,9 +79,9 @@ tqdm==4.56.0
     # via twine
 twine==3.1.1
     # via -r requirements-dev.in
-typed-ast==1.4.2
+typed-ast==1.5.5
     # via mypy
-typing-extensions==3.7.4.3
+typing-extensions==4.1.0
     # via mypy
 urllib3==1.26.3
     # via requests

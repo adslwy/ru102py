@@ -8,7 +8,7 @@ aniso8601==8.1.1
     # via flask-restful
 cffi==1.14.4
     # via cryptography
-click==7.1.1
+click==8.1.7
     # via
     #   -r requirements.in
     #   flask
@@ -45,7 +45,7 @@ marshmallow==3.10.0
     #   marshmallow-enum
     #   marshmallow-union
     #   webargs
-mypy-extensions==0.4.3
+mypy-extensions==1.0.0
     # via typing-inspect
 progress==1.5
     # via -r requirements.in
@@ -69,7 +69,7 @@ six==1.15.0
     #   cryptography
     #   flask-cors
     #   flask-restful
-typing-extensions==3.7.4.3
+typing-extensions==4.1.0
     # via typing-inspect
 typing-inspect==0.6.0
     # via marshmallow-dataclass
